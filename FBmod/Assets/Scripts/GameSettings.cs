@@ -30,7 +30,6 @@ public class GameSettings : MonoBehaviour
     { 
         SceneManager.LoadScene(0);
         score = 0;
-        Time.timeScale = 1;
     }
 
     private void OnGUI()

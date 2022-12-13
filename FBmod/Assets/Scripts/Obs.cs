@@ -5,7 +5,6 @@ using UnityEngine;
 public class Obs : MonoBehaviour
 {
     public static float moveSpeed = 5.0f;
-    public GameSettings gs;
 
     // Update is called once per frame
     void Update()
